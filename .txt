@@ -1,1 +1,0 @@
-OPENAI_API_KEY="Aquí va la key de OPEN AI"
